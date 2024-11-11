@@ -27,36 +27,36 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/OktaModz'
-global.syt = 'https://youtu.be/ChataOfc-'
-global.sgh = 'https://github.com/ChataOfc'
-global.sgc = 'https://chat.whatsapp.com/JVQ60oSsvJ1CtscEwmtXzk'
-global.swa = 'wa.me/6285731947500'
+global.sig = 'https://instagram.com/'
+global.syt = 'https://youtu.be/'
+global.sgh = 'https://github.com/'
+global.sgc = 'https://chat.whatsapp.com/'
+global.swa = 'wa.me/6285137397565'
 global.swb = 'https://'
-global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
+global.snh = 'https://nhentai.net/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '085731947500'
+global.pdana = '08'
 global.povo = '-'
-global.pgopay = '085731947500'
-global.ppulsa = '085731947500'
-global.ppulsa2 = '085749543572'
-global.psaweria = 'https://saweria.co/oktakc'
+global.pgopay = '08'
+global.ppulsa = '08'
+global.ppulsa2 = '08'
+global.psaweria = 'https://saweria.co/'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285749543572'
-global.nomorown = '6285731947500'
+global.nomorbot = '6285137397565'
+global.nomorown = '6285137397565'
 global.namebot = 'Nakano Nino'
 global.nameown = 'Okta'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285731947500', 'Okta', 'true']
+  ['6285137397565', 'Okta', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.prems = ['6285137397565'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
